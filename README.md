@@ -55,6 +55,6 @@
 # SPECIAL THANKS TO:
 	* Code by Silent ( Insta : Silent_anons )                         
 	* Fixing and Testing by AnonGhost
-	* INTERNATIONAL ORGANIZATION OF " ANONGHOSRT "
+	* INTERNATIONAL ORGANIZATION OF " ANONGHOST "
 	* KDMS Pro Palestine Hacker | AnonGhost - LulzSec
   * DEVELOPE BY  Silent
