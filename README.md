@@ -53,8 +53,8 @@
 <br/>
 
 # SPECIAL THANKS TO:
-	* Code by Ccocot (ccocot@bc0de.net)
-	* Fixing and Testing by Putu Syntax
-	* SGB TEAM REBORN
-	* BC0DE.NET | NAONLAH.NET - WingKocoli
-  * Recode Reupload By X-Mr.R4h1M
+	* Code by Silent ( Insta : Silent_anons )                         
+	* Fixing and Testing by AnonGhost
+	* INTERNATIONAL ORGANIZATION OF " ANONGHOSRT "
+	* KDMS Pro Palestine Hacker | AnonGhost - LulzSec
+  * DEVELOPE BY  Silent
